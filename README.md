@@ -1,9 +1,9 @@
 # İ am Mariami-Tchikadze
-🎓 Computer Engineering student  
-🧪 QA & Test Automation enthusiast  
-🐍 Python, pytest, Selenium  
-🌲 Algorithms & Data Structures  
-📚 Interested in Numerical Methods & Software Engineering  
+Computer Engineering student  
+QA & Test Automation enthusiast  
+Python, pytest, Selenium  
+Algorithms & Data Structures  
+Interested in Numerical Methods & Software Engineering  
 
 ## 🔧 Technologies & Tools
 - Python  
